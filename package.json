@@ -1,0 +1,27 @@
+{
+  "name": "Template Engine - Employee Summary",
+  "version": "1.0.0",
+  "description": "Unit 10 OOP Homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://github.com/mmarti1223/TemplateEngine.git"
+  },
+  "author": "",
+  "license": "MIA",
+  "bugs": {
+    "url": "http://github.com/mmarti1223/TemplateEngine.git/issues"
+  },
+  "homepage": "http://github.com/mmarti1223/TemplateEngine.git#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "jest": "^24.9.0"
+  }
+}
